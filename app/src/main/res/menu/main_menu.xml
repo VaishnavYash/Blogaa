@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_add"
+        app:showAsAction="always"
+        android:title="@string/add_blog"
+        android:icon="@drawable/ic_add"
+        />
+    <item
+        android:id="@+id/logOut"
+        app:showAsAction="always"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"
+        />
+<!--    <item android:id="@+id/action_setting"-->
+<!--        android:title="@string/setting"-->
+<!--        app:showAsAction="never"-->
+<!--        />-->
+</menu>

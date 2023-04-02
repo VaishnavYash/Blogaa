@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blogaa</string>
+    <string name="add_blog">Add Blog</string>
+    <string name="setting">Setting</string>
+</resources>
